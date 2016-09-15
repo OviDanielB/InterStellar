@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="javax.servlet.jsp:jsp-api:2.2" type="repository">
+    <properties maven-id="javax.servlet.jsp:jsp-api:2.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jsp-api-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet-3.0-b72.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/el-api-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/jsp-api-2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/jsp-api-2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

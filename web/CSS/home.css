@@ -1,0 +1,10 @@
+
+blockquote {
+    position: absolute;
+    left: 10%;
+    top: 5%;
+}
+
+.parallax-container{
+    width: 100%;
+}

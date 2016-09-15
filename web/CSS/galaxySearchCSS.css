@@ -1,0 +1,28 @@
+.input-field {
+    color: white;
+    opacity: 1.0;
+}
+
+/* label color */
+.input-field label {
+    color: white;
+}
+
+.input-field input[type=text]:focus + label {
+    color: yellow;
+}
+
+.input-field input[type=password]:focus + label {
+    color: yellow;
+}
+
+.input-field input[type=email]:focus + label {
+    color: yellow;
+}
+
+/* icon prefix focus color */
+.input-field .prefix.active {
+    color: yellow;
+
+}
+
