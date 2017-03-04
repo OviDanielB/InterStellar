@@ -35,8 +35,8 @@ public class FluxRepository {
         if(fluxAlreadyInDB(f)){
             return;
         } else {
-            //insertFlux(f);
-            em.persist(f);
+            insertFlux(f);
+            //em.persist(f);
 
         }
 
